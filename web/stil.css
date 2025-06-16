@@ -1,0 +1,46 @@
+@charset "utf-8";
+/* CSS Document */
+p {
+	color:darkblue;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 16px;
+	line-height: 20px;
+	width: 800px;
+	background-color: blanchedalmond;
+	padding: 15px;		
+}
+.paragraf_2 {
+	color:darkcyan;
+	background-color: lightsteelblue;
+}
+.novi_blok{
+	background-color: aliceblue;
+	padding: 25px;
+	margin: 25px;
+	width: 75%;
+}
+h1, h2, h4 {
+	color: mediumpurple;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";		
+}
+span { color:#13D2CB;}
+.pozadina {
+	background-image: url("nebo.jpg");
+	background-color: blue;	
+}
+.drugapozadina {
+	background-color:lavender;
+}
+a:link {
+	color:blueviolet;
+	background-color: lightblue;
+	padding: 3px;
+	line-height: 40px;
+	border: 1px solid #000000;	
+}
+a:hover{
+	background-color: ghostwhite;
+}
+img {
+	weight:200px;
+}
